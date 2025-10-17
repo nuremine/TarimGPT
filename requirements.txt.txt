@@ -1,0 +1,8 @@
+streamlit
+flask
+openai
+langchain
+faiss-cpu
+sentence-transformers
+python-dotenv
+requests
